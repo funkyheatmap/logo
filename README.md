@@ -12,7 +12,7 @@ PNG:
 
 PDF:
 
-![](src/attempt1/funkyheatmap_edited.pdf)
+[src/attempt1/funkyheatmap_edited.pdf](src/attempt1/funkyheatmap_edited.pdf)
 
 ## Usage
 

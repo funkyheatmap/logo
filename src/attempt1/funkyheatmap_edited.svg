@@ -9,8 +9,8 @@
    sodipodi:docname="funkyheatmap_edited.svg"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    inkscape:export-filename="funkyheatmap_edited.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="5.1863113"
-     inkscape:cx="9.4479482"
-     inkscape:cy="108.94063"
+     inkscape:zoom="10.899067"
+     inkscape:cx="43.994593"
+     inkscape:cy="55.876344"
      inkscape:window-width="3840"
      inkscape:window-height="2091"
      inkscape:window-x="0"
@@ -83,6 +83,11 @@
          id="rect3" />
     </clipPath>
   </defs>
+  <polygon
+     points="25.66,67.98 1.74,109.41 25.66,150.84 73.5,150.84 97.42,109.41 73.5,67.98 "
+     style="stroke-width:1.07;stroke-linecap:butt;fill:#ffffff;fill-opacity:1;stroke:none"
+     id="polygon1"
+     transform="rotate(-30,-68.121107,93.100773)" />
   <g
      id="g38"
      clip-path="url(#clipPath38)"
